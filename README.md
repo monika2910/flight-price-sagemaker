@@ -1,4 +1,4 @@
-# End-to-End Machine Learning using AWS SageMaker Course
+#Flight Price Prediction project using AWS SageMaker 
 
 
 This comprehensive End-to-End machine learning project using AWS SageMaker.
